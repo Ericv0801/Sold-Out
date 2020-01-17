@@ -28,24 +28,7 @@ $(document).ready(function () {
                 .val()
                 .trim()
         };
-        // console.log(newProduct)
-        // // Send the POST request.
-        // $.ajax("/send_sms", {
-        //     type: "POST",
-        //     data: newProduct.seller_phone,
-        //     dataType: "json",
-        //     contentType: "application/json"
-        // }).then(function (data) {
-           
-        //     $("#addProduct [name=productName] ").val("");
-        //     $("#addProduct [name=productDescription]").val("");
-        //     $("#addProduct [name=productImage]").val("");
-        //     $("#addProduct [name=minBid]").val("");
-        //     $("#addProduct [name=sellerName]").val("");
-        //     $("#addProduct [name=sellerPhone]").val("");
-        //     $("#addProduct [name=bidLength]").val("");
-        //     // location.reload();
-        // })
+      
         $.ajax("/products_api", {
             type: "POST",
             data: JSON.stringify(newProduct),
@@ -159,7 +142,7 @@ function setCountDown(x, y, q) {
         var seconds = Math.floor((distance % (1000 * 60)) / 1000);
         var co = $("." + y);
         var z = hours + ":" + minutes + ":" + seconds
-        console.log(z)
+        
         $(co).html(z);
         // If the count down is over, write some text 
         if (distance < 1000 *30) {
@@ -169,6 +152,8 @@ function setCountDown(x, y, q) {
             $(cardBtn).removeClass('btn-primary').addClass('btn-danger');
         }
 
+
+        
         if (distance < 0) {
             // clearInterval(x);
             $(co).text("EXPIRED");
