@@ -18,6 +18,7 @@ Sold Out was created in order for all its users to have a platform where they ca
 - CSS
 - Javascript
 - JQuery
+- MySql
 - APIs –  Twilio
 - Heroku
  
