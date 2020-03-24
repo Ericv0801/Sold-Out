@@ -23,7 +23,7 @@ Looking to Buy?
 1. Go to Buyer Page.
 2. Click on "BID" for the item you want to purcahase.
 3. Enter a number thats higher than the current BID.
-4. Wait to see if you successfuly win the BID.
+4. Wait to see if you successfully win the BID.
 
 ## Technologies Used
 
