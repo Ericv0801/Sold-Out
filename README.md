@@ -19,6 +19,8 @@ Looking to Sell?
 3. Click Submit.
 4. Wait for your item to sell!
 
+Looking to Buy?
+
 ## Technologies Used
 
 - HTML
