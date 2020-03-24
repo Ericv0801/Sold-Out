@@ -12,7 +12,7 @@ Link To Deployed Heroku Site: https://serene-sands-57538.herokuapp.com/
 
 Sold Out was created in order for all its users to have a platform where they can place a product they own and would like to get rid of. We have been compared to other brands like LetGo and Ebay, but what makes us different and unique is the fact that we have live updates sent to all of our users (buyers & sellers). This form of constant updates along with our approach to letting the seller place a minimum bid amount for their product so they get profit to their liking has made Sold Out a huge hit within the re-sale market between consumers.
 
-## Intructions
+## Instructions
 
 ## Technologies Used
 
