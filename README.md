@@ -25,6 +25,10 @@ Looking to Buy?
 3. Enter a number thats higher than the current BID.
 4. Wait to see if you successfully win the BID.
 
+![Home](./assets/images/Home.png)
+![Buyer](./assets/images/Buyer.png)
+![Seller](./assets/images/Seller.png)
+
 ## Technologies Used
 
 - HTML
