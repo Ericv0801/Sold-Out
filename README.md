@@ -14,6 +14,8 @@ Sold Out was created in order for all its users to have a platform where they ca
 
 ## Instructions
 
+1.
+
 ## Technologies Used
 
 - HTML
